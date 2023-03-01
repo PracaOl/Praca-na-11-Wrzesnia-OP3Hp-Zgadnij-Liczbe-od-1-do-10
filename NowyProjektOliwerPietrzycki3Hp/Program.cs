@@ -1,6 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
 // Console.WriteLine("Hello, World!");
-// OP3Hp
 double y;
 
 Random rnd = new Random();
